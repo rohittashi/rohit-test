@@ -1,3 +1,4 @@
  
  3 time init
   new 
+new add 1111
